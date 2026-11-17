@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Services | RICHARD TECHNOLOGIES</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">RICHARD TECHNOLOGIES</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Us</a>
+    <a href="services.html">Services</a>
+    <a href="projects.html">Projects</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Our <span>Services</span></h1>
+  <p>Technology solutions for a smarter digital future.</p>
+</section>
+
+<section>
+  <h2>What We Do</h2>
+
+  <div class="services">
+    <div class="card">
+      <h3>Web Development</h3>
+      <p>Modern, responsive and professional websites.</p>
+    </div>
+
+    <div class="card">
+      <h3>Mobile App Development</h3>
+      <p>Useful applications for Android and other platforms.</p>
+    </div>
+
+    <div class="card">
+      <h3>Artificial Intelligence</h3>
+      <p>Exploring AI assistants and intelligent systems.</p>
+    </div>
+
+    <div class="card">
+      <h3>Software Development</h3>
+      <p>Software solutions designed to solve problems.</p>
+    </div>
+
+    <div class="card">
+      <h3>IT Solutions</h3>
+      <p>Digital tools and technology support.</p>
+    </div>
+
+    <div class="card">
+      <h3>Innovation & Research</h3>
+      <p>Exploring new ideas and emerging technologies.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 RICHARD TECHNOLOGIES. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
